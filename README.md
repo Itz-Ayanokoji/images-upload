@@ -72,3 +72,19 @@
 
 <h3 align="center">I'm currently vibing to 🎧</h3>
 <p align="center"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=2dam38qphq3urbtrwp0po0hub" alt="spotify" height="300px"/></p>
+
+### Interesting files
+
+| Route                                             | Details                                                                                         |
+| :------------------------------------------------ | :---------------------------------------------------------------------------------------------- |
+| [**🎻 Genshin playlist**](/🎻%20Genshin%20playlist) | Some of the OST that I like in Genshin Impact.                                                  |
+| [**🍡 Genshin PV**](/🍡%20Genshin%20PV)             | Genshin Impact character teasers, PVs, and EPs (4 languages).                                   |
+| [**🍏 Genshin emotes**](/🍏%20Genshin%20emotes)     | Genshin character emojis. Derived from Telegram stickers.                                       |
+| [**🍊 Wallpaper**](/🍊%20Wallpaper)                 | Some of the anime wallpapers which I clicked my myself and also took                                |
+
+## Thankings
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/bottesterheroku/onedrive-imgs/main/footer.png" />
+  <em>made with ❤️ by <a href="https://t.me/DarkPhew">𝓓𝓪𝓻𝓴 𝓟𝓱𝓮𝓸𝓷𝓲𝔁</a></em>
+</div>
