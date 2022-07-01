@@ -76,7 +76,6 @@
 💬 Ask me about anything, I am happy to help <br>
 ⚡ Fun fact : **No technology that’s connected to the Internet is unhackable**<br><br><br><br>
 
-
 ***
 <img src="https://website-crimea.ru/wp-content/uploads/github/message.gif" width="300px" align="right">
 
