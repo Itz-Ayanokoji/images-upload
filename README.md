@@ -48,13 +48,6 @@
 </p>
 
 
-
-***
-<img src="https://website-crimea.ru/wp-content/uploads/github/message.gif" width="300px" align="right">
-
-
-
-
 ***Talking about Personal Stuffs...***
 
 ✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
