@@ -22,9 +22,7 @@
 <br/>
 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cooper+Black&color=18BEF7&size=30&center=true&vCenter=true&width=1000&height=30&lines=Hi+%F0%9F%91%8B;I'm+a+Student%F0%9F%92%BB;A+Programmer💻;Coffee Lover💙)](https://git.io/typing-svg)
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cooper+Black&color=18BEF7&size=30&center=true&vCenter=true&width=1000&height=30&lines=Hi+%F0%9F%91%8B;I'm+a+Computer+Science+Engineer%F0%9F%92%BB;A+Cyber+Security+Researcher💻;Reverse+Engineering+Lover💙)](https://git.io/typing-svg)
 
 
 
