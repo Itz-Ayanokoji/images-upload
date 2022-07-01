@@ -32,19 +32,6 @@
 
 ## 👽 wh0am1 ? 🤔
 
-<h3 align="center">Programmer🚀 | Cyber Security Researcher💻 | Reverse Engineering Lover💙</h3>
-<p align="center">
-<a href="https://twitter.com/i_amsphinx" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="abhipathak24" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pathakabhi24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pathakabhi24" height="30" width="40" /></a>
-<a href="https://instagram.com/abhipathak24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhipathak24" height="30" width="40" /></a>
-<a href="https://medium.com/@pathakabhi24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pathakabhi24" height="30" width="40" /></a>
-</a>
-</p>
-</p>
-
-
-</p>
-
  
 
 <p align="center">
