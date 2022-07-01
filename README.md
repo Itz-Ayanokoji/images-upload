@@ -49,8 +49,8 @@
 
 <p align="center">
   <em>
-    This is, Abhinav Pathak, a <b>Computer Science</b> Engineer <br>
-    A passionate learner who's always willing to learn and work across <b>technlogies and domains</b> and <b>I'm currently learning Cyber Security and working on strong my knowledge on Networking and Ethical Hacking</b>&nbsp;&nbsp,<br>I am <b>obsessed</b>
+    This is, 𝓓𝓪𝓻𝓴 𝓟𝓱𝓮𝓸𝓷𝓲𝔁, a <b>Class 10th</b> Student <br>
+    A passionate learner who's always willing to learn and work across <b>technlogies and domains</b> and <b>I'm currently learning Cyber Security and working on strong my knowledge on Programming and Ethical Hacking</b>&nbsp;&nbsp,<br>I am <b>obsessed</b>
     with the idea of <b>improving</b> myself and wants a <b>platform</b> to 
     <b>grow</b> and 
     <b>excel</b> &nbsp.
@@ -71,7 +71,6 @@
 ✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
 🌱 I’m currently learning **How to live life** <br>
 👨🏽‍💻 Currently working on something cool <br>
-🤖 Making **Tools for Automation** in Cyber Security and Bug Bounty <br>
 👯 I’m looking to collaborate with any **Open - Source contribution**<br>
 🔭 I’m currently working on : **Nothing** <br>
 💬 Ask me about anything, I am happy to help <br>
