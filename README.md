@@ -71,4 +71,4 @@
 
 
 <h3 align="center">I'm currently vibing to 🎧</h3>
-<p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=2dam38qphq3urbtrwp0po0hub&cover_image=true&theme=compact" height="300px" alt="spotify"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=2dam38qphq3urbtrwp0po0hub" alt="spotify" height="300px"/></p>
+<p align="center"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=2dam38qphq3urbtrwp0po0hub" alt="spotify" height="300px"/></p>
