@@ -1,6 +1,6 @@
 <h2 align="center">
   <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/Itz-Ayanokoji/images-upload/main/Earth.gif" width="24px" style="max-width:100%;">
   </a>
   𝐇𝐞𝐥𝐥𝐨, &lt;Welcome to the Profile/&gt;!
   <a target="_blank">
