@@ -4,7 +4,7 @@
   </a>
   𝐇𝐞𝐥𝐥𝐨, &lt;Welcome to the Profile/&gt;!
   <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
+    <img src="https://raw.githubusercontent.com/Itz-Ayanokoji/images-upload/main/Hi.gif" width="40px" />
   </a>
 </h2>
 
