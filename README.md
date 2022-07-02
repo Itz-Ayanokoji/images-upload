@@ -1,5 +1,6 @@
+ <h2 align="center"> 
   𝐇𝐞𝐥𝐥𝐨, &lt;Welcome to the Profile/&gt;!
-  
+  <h2/>
 
 <h1 align="center"> 
 <img src="https://raw.githubusercontent.com/Itz-Ayanokoji/images-upload/main/pixel.gif" width="105%"/>
