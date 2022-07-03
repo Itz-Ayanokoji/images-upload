@@ -1,11 +1,7 @@
 <h2 align="center">
-  <a target="_blank">
-    <img src="https://raw.githubusercontent.com/Itz-Ayanokoji/images-upload/main/Earth.gif" width="24px" style="max-width:100%;">
-  </a>
+
   𝐇𝐞𝐥𝐥𝐨, &lt;Welcome to the Profile/&gt;!
-  <a target="_blank">
-    <img src="https://raw.githubusercontent.com/Itz-Ayanokoji/images-upload/main/Hi.gif" width="40px" />
-  </a>
+  
 </h2>
 
 <h1 align="center"> 
